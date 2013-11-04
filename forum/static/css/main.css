@@ -1,0 +1,26 @@
+.message {
+	padding: 15px;
+	margin: 5px;
+	border: solid 1px;
+}
+
+.text_message {
+	display: block;
+}
+
+.date {
+	text-align: right;
+}
+
+.reply {
+	float: left;
+}
+
+.wysiwyg-input { 
+	width: 300px; 
+	height: 250px ;
+}
+
+.reply_text {
+	background-color: #CDCDCD;
+}
